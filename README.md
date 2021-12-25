@@ -19,9 +19,9 @@
 
 :outbox_tray: I'm focused on modernizing enterprise architectures with data in motion for innovative use cases :fire:
 
-:musical_keyboard: Also I'm musician! I love creating songs and melodies with my guitars :guitar: and program sick basslines and drums on my DAW :metal:
+<!-- :musical_keyboard: Also I'm musician! I love creating songs and melodies with my guitars :guitar: and program sick basslines and drums on my DAW :metal:
  
-:movie_camera: Recommend me some scary movies :ghost:
+:movie_camera: Recommend me some scary movies :ghost: -->
 
 :chart_with_upwards_trend: My experience involves building things like:
 - Enterprise systems for many use cases in Brazil
