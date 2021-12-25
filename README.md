@@ -31,6 +31,8 @@
     - Banking industry (Brazil)
 
 
+:man_student: I have a Bachelor's degree in Computer Engineering and Master's degree in Software Architecture
+
 :pencil: Check out my study repos!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luigigil&repo=event-driven-microservices)](https://github.com/luigigil/event-driven-microservices)
