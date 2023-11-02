@@ -1,4 +1,6 @@
-# Welcome!
+[wip]
+
+<!-- # Welcome!
 
 ## I'm Luigi Gil!
 
@@ -19,9 +21,9 @@
 
 :outbox_tray: I'm focused on modernizing enterprise architectures with data in motion for innovative use cases :fire:
 
-<!-- :musical_keyboard: Also I'm musician! I love creating songs and melodies with my guitars :guitar: and program sick basslines and drums on my DAW :metal:
+:musical_keyboard: Also I'm musician! I love creating songs and melodies with my guitars :guitar: and program sick basslines and drums on my DAW :metal:
  
-:movie_camera: Recommend me some scary movies :ghost: -->
+:movie_camera: Recommend me some scary movies :ghost:
 
 :chart_with_upwards_trend: My experience involves building things like:
 - Enterprise systems for many use cases in Brazil
@@ -47,4 +49,4 @@
 
 ## Contact me
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luigigil) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/luigi-nunes-gil-1b09b9119/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luigi.gil@gmail.com) [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luigigil) [![image](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/luigigil)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luigigil) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/luigi-nunes-gil-1b09b9119/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luigi.gil@gmail.com) [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luigigil) [![image](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/luigigil) -->
